@@ -1,10 +1,6 @@
 
 # JAVA_investing_app [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<table><tr><td>
-<img src="./images/finishedGif.gif" alt="finished gif" style="border-radius:16px" width="838" height="380"/>
-</table></tr></td>
-
 ## Table of Contents
 
 * [Description](#description)
@@ -73,10 +69,5 @@ Testng
 
 ```
 
-## Questions
 
-<img src="https://avatars.githubusercontent.com/u/48495840?v=4" alt="avatar" style="border-radius: 16px" width="60"/>
 
-If you have any questions about the repo, open an issue or contact [Alejandro Fuste](https://github.com/Alejandro-Fuste) directly through GitHub.
-
-# Project2
