@@ -1,10 +1,6 @@
 
 # JAVA_investing_app [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<table><tr><td>
-<img src="./images/finishedGif.gif" alt="finished gif" style="border-radius:16px" width="838" height="380"/>
-</table></tr></td>
-
 ## Table of Contents
 
 * [Description](#description)
