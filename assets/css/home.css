@@ -1,0 +1,100 @@
+:root {
+  --primary-color: #2a67ca;
+  --submit-button-color: #000f39;
+}
+
+* {
+  margin: 0;
+}
+
+#container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  /* padding: 0 50px; */
+  justify-content: center;
+}
+
+/* ********* Left Section ********* */
+#leftSection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  background: var(--submit-button-color);
+}
+
+#leftSectionImg {
+  width: 75%;
+  height: 70%;
+}
+
+/* ********* Left Section ********* */
+#rightSection {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+}
+
+/* ********* forms  ********* */
+
+#loginForm,
+#signUpForm,
+#fakeForm,
+#fakeSignUp {
+  width: 64%;
+  height: 60%;
+  border: solid 1px #ced4da;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 5vw;
+}
+
+/* ********* login form ********* */
+
+#signUpForm,
+#fakeSignUp {
+  height: 94%;
+}
+
+#submitButton,
+#submitSignUpButton {
+  margin-top: 15px;
+  background-color: var(--submit-button-color);
+  border-color: var(--submit-button-color);
+}
+
+#hideErrorMessage {
+  display: none;
+  color: red;
+}
+
+#errorMessage {
+  color: red;
+  margin-top: 4vh;
+}
+
+/* ********* Error Messages ********* */
+
+#firstNameError,
+#lastNameError,
+#businessError,
+#userNameError,
+#passwordError,
+#roleError {
+  color: red;
+  display: none;
+}
